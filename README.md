@@ -1,2 +1,2 @@
 # algorithms-in-php
-popular algorithms in PHP 
+popular algorithms implementation in PHP 
